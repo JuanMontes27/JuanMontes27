@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**JuanMontes27/JuanMontes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola soy Juan Montes!
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un ingeniero de software, con más de dos años de experiencia en el área de desarrollo de software como Full-Stack.
+
+## Stack
+
+JavaScript | Python
+-- | --
+React | Flask
+Angular | Tkinter
+Express | Django
+NestJS | 
+
+**Estoy siempre dispuesto a aprender nuevas tecnologías, y enfrentar nuevos retos.**
+
+[Juanchoner:](https://github.com/Juanchoner) Aquí puedes ver mi anterior perfil de Github como estudiante, donde tengo algunos proyectos que desarrollé en mi formación académica. Poco a poco iré trasladando esos proyectos a este perfil.
